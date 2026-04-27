@@ -1,4 +1,4 @@
-# Batman Movies API — Dart CLI
+# Batman Movies API — Dart
 
 ## 1.
 IMDB iamidiotareyoutoo, uma API pública que busca filmes pelo nome.
