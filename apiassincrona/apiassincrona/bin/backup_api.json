@@ -1,0 +1,58 @@
+[
+  {
+    "#TITLE": "Batman Begins",
+    "#YEAR": 2005,
+    "#ACTORS": "Christian Bale, Michael Caine",
+    "#RANK": 312,
+    "#AKA": "Batman Begins (2005) "
+  },
+  {
+    "#TITLE": "The Dark Knight",
+    "#YEAR": 2008,
+    "#ACTORS": "Christian Bale, Heath Ledger",
+    "#RANK": 3,
+    "#AKA": "The Dark Knight (2008) "
+  },
+  {
+    "#TITLE": "The Dark Knight Rises",
+    "#YEAR": 2012,
+    "#ACTORS": "Christian Bale, Tom Hardy",
+    "#RANK": 287,
+    "#AKA": "The Dark Knight Rises (2012) "
+  },
+  {
+    "#TITLE": "Batman v Superman: Dawn of Justice",
+    "#YEAR": 2016,
+    "#ACTORS": "Ben Affleck, Henry Cavill",
+    "#RANK": 1450,
+    "#AKA": "Batman v Superman: Dawn of Justice (2016) "
+  },
+  {
+    "#TITLE": "The Batman",
+    "#YEAR": 2022,
+    "#ACTORS": "Robert Pattinson, Zoë Kravitz",
+    "#RANK": 198,
+    "#AKA": "The Batman (2022) "
+  },
+  {
+    "#TITLE": "Batman Forever",
+    "#YEAR": 1995,
+    "#ACTORS": "Val Kilmer, Tommy Lee Jones",
+    "#RANK": 2841,
+    "#AKA": "Batman Forever (1995) "
+  },
+  {
+    "#TITLE": "Batman Returns",
+    "#YEAR": 1992,
+    "#ACTORS": "Michael Keaton, Danny DeVito",
+    "#RANK": 763,
+    "#AKA": "Batman Returns (1992) "
+  },
+  {
+    "#TITLE": "Batman: The Killing Joke",
+    "#YEAR": 2016,
+    "#ACTORS": "Kevin Conroy, Mark Hamill",
+    "#RANK": 5102,
+    "#AKA": "Batman: The Killing Joke (2016) "
+  }
+]
